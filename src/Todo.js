@@ -2,11 +2,8 @@ import React, { useState } from "react";
 import ItemInput from "./components/ItemInput";
 import Head from "./components/Head";
 import ItemList from "./components/ItemList";
-//import Tempo from "./components/Tempo";
 
 export default function Todo() {
-  //Whenever we use useState , then the current component and all the children component gets rerendered.
-
   const [currItems, setcurrItems] = useState([]);
   const [itemRef, setitemRef] = useState(null);
 

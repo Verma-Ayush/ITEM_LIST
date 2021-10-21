@@ -11,7 +11,6 @@ export default function ItemList({ currItems, setcurrItems, setitemRef }) {
       return newitems;
     });
 
-    //refresh the input
     setitemRef(null);
     document.querySelector(".input-field").value = "";
   };
