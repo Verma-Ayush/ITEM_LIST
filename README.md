@@ -14,11 +14,6 @@ Installs all the node modules required to run the server.
 
 Runs the server at `http://localhost:4000/`
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ## Manual API Testing
 
 You can use any Rest API Client (eg. Postman) to send API requests to the server.
