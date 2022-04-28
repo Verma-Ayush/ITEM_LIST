@@ -12,7 +12,7 @@ Installs all the node modules required to run the server.
 
 ### `npm start`
 
-Runs the server at `http://localhost:4000/`.
+Runs the server at `http://localhost:4000/`
 
 ### `npm test`
 
