@@ -36,5 +36,5 @@ Provide the commodity data in body of the POST api request at `http://localhost:
 
 ### `GET /reports?reportID=<commodity-reportID>`
 
-Provide the commodity reportID in query of the GET api request at `GET http://localhost:4000/reports?reportID=<commodity-reportID>` to receive the response with commodity data.
+Provide the commodity reportID in query of the GET api request at `http://localhost:4000/reports?reportID=<commodity-reportID>` to receive the response with commodity data.
 
