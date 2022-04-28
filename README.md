@@ -1,6 +1,8 @@
 # Getting Started with Gramoday backend server
 
 This project is created with Node.js, Express.js and MongoDB.
+## On local
+Download or clone the git repo on local storage with Node.js installed.
 
 ## Available Scripts
 
