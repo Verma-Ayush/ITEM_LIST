@@ -30,11 +30,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 You can use any Rest API Client (eg. Postman) to send API requests to the server.
 
-### `POST localhost:4000/reports`
+### `POST /reports`
 
-Provide the commodity data in body of the POST api request to receive the response with commodity reportID.
+Provide the commodity data in body of the POST api request at `http://localhost:4000/reports` to receive the response with commodity reportID.
 
-### `GET localhost:4000/reports?reportID=<commodity-reportID>`
+### `GET /reports?reportID=<commodity-reportID>`
 
-Provide the commodity reportID in query of the GET api request to receive the response with commodity data.
+Provide the commodity reportID in query of the GET api request at `GET http://localhost:4000/reports?reportID=<commodity-reportID>` to receive the response with commodity data.
 
